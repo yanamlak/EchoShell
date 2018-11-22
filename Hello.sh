@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "hello, today is $(date)"
+echo "hello changed, today is $(date)"
